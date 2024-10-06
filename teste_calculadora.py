@@ -5,5 +5,5 @@ def main():
     b = 2
     soma = calculadora.somar(a, b)
     
-    print(soma)
+    prqqint(soma)
 main()
